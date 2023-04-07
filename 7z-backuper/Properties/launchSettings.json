@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "7z-backuper": {
+      "commandName": "Project",
+      "commandLineArgs": "--sources \"C:\\Users\\fm\\Temp\\test-bcp\\source\" --target \"C:\\Users\\fm\\Temp\\test-bcp\\target\""
+    }
+  }
+}
